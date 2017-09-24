@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<!DOCTYPE Library SYSTEM "Library.dtd">
+<Library>    
+<Book Bookid="感悟">
+<Title>活着</Title>
+<Author>余华</Author>
+<Price>39.00</Price>
+<Publisher>作家出版社</Publisher>
+<Cost>36.00</Cost>
+</Book>
+<Member>  
+<Name>
+<FirstName>朱</FirstName>
+<MiddleName>厚</MiddleName>
+<LastName>强</LastName>
+</Name>
+<Address>
+<HouseNumber>33号</HouseNumber>
+<Street>茂兴街</Street>
+<City>万宁</City>
+</Address>
+</Member>  
+</Library>  
+
